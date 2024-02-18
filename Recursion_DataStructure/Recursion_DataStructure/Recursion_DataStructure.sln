@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion_DataStructure", "Recursion_DataStructure\Recursion_DataStructure.csproj", "{4764F085-A0F3-495B-B7D0-404C64B18023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4764F085-A0F3-495B-B7D0-404C64B18023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4764F085-A0F3-495B-B7D0-404C64B18023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4764F085-A0F3-495B-B7D0-404C64B18023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4764F085-A0F3-495B-B7D0-404C64B18023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5738B100-B91C-4FEF-9431-DCE0E80B00B7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\bin\Debug\net6.0\Recursion_DataStructure.exe
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\bin\Debug\net6.0\Recursion_DataStructure.deps.json
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\bin\Debug\net6.0\Recursion_DataStructure.runtimeconfig.json
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\bin\Debug\net6.0\Recursion_DataStructure.dll
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\bin\Debug\net6.0\Recursion_DataStructure.pdb
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.csproj.AssemblyReference.cache
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.AssemblyInfoInputs.cache
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.AssemblyInfo.cs
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.dll
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\refint\Recursion_DataStructure.dll
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.pdb
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\Recursion_DataStructure.genruntimeconfig.cache
+C:\Users\suden\source\repos\Recursion_DataStructure\Recursion_DataStructure\obj\Debug\net6.0\ref\Recursion_DataStructure.dll
